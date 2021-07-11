@@ -1,14 +1,5 @@
-# Pontodeacesso
-Ponto de Acesso - Treinamento da Digital Innovation One
+# Controle de Ponto de Acesso   
 
-Esse exemplo está sendo desenvolvido no treinamento da
-Digital Innovation One juntamente com o Bootcamp Santander
+Gerenciamento Ponto de Acesso.
 
-Início de desenvolvimento: 09/07/2021
-
- ## Tools and Technologies
-  
-  1. SPRING
-  2. JAVA
-  3. GRADLE
-  4. LOMBOX
+Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | Swagger
